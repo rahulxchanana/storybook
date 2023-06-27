@@ -1,11 +1,11 @@
 @storybook/cli v7.0.23
 
-info => Cleaning outputDir: C:\Users\rahul\AppData\Local\Temp\chromatic--1204-Z3qAZQUuefFr
+info => Cleaning outputDir: C:\Users\rahul\AppData\Local\Temp\chromatic--12440-K3LxHP7MuaKz
 info => Loading presets
 info => Building manager..
-info => Manager built (1.14 s)
+info => Manager built (926 ms)
 info => Compiling preview..
-info => Copying static files: C:\Users\rahul\repos\storybook\node_modules\@storybook\manager\static at C:\Users\rahul\AppData\Local\Temp\chromatic--1204-Z3qAZQUuefFr\sb-common-assets
+info => Copying static files: C:\Users\rahul\repos\storybook\node_modules\@storybook\manager\static at C:\Users\rahul\AppData\Local\Temp\chromatic--12440-K3LxHP7MuaKz\sb-common-assets
 info Addon-docs: using MDX2
 info => Loading Webpack configuration from `node_modules\react-scripts`
 info => Removing existing JavaScript and TypeScript rules.
@@ -118,36 +118,34 @@ info => Using default Webpack5 setup
 <s> [webpack.Progress] 10% building
 <s> [webpack.Progress] 10% building 0/1 entries 0/0 dependencies 0/0 modules
 <s> [webpack.Progress] 10% building 0/1 entries 1/1 dependencies 0/0 modules
-<s> [webpack.Progress] 26% building 0/1 entries 11/18 dependencies 3/10 modules
 <s> [webpack.Progress] 19% building import loader ./node_modules/babel-loader/lib/index.js
 <s> [webpack.Progress] 19% building import loader ./node_modules/source-map-loader/dist/cjs.js
 <s> [webpack.Progress] 19% building 0/1 entries 17/19 dependencies 3/17 modules
-<s> [webpack.Progress] 19% building 0/1 entries 20/35 dependencies 3/18 modules
+<s> [webpack.Progress] 21% building 0/1 entries 21/35 dependencies 4/19 modules
 <s> [webpack.Progress] 28% building import loader ./node_modules/@storybook/mdx2-csf/loader.js
 <s> [webpack.Progress] 28% building 0/1 entries 34/63 dependencies 9/27 modules
-info => Copying static files: C:\Users\rahul\repos\storybook\public at C:\Users\rahul\AppData\Local\Temp\chromatic--1204-Z3qAZQUuefFr\
+info => Copying static files: C:\Users\rahul\repos\storybook\public at C:\Users\rahul\AppData\Local\Temp\chromatic--12440-K3LxHP7MuaKz\
 <s> [webpack.Progress] 23% building import loader ./node_modules/unplugin/dist/webpack/loaders/load.js
 <s> [webpack.Progress] 23% building 0/1 entries 47/78 dependencies 9/36 modules
-<s> [webpack.Progress] 23% building import loader ./node_modules/@svgr/webpack/lib/index.js
-<s> [webpack.Progress] 23% building import loader ./node_modules/file-loader/dist/cjs.js
-<s> [webpack.Progress] 23% building 0/1 entries 104/117 dependencies 16/67 modules
-<s> [webpack.Progress] 35% building 0/1 entries 118/143 dependencies 34/74 modules
-<s> [webpack.Progress] 35% building 0/1 entries 138/159 dependencies 40/88 modules
-<s> [webpack.Progress] 32% building import loader ./node_modules/mini-css-extract-plugin/dist/loader.js
-<s> [webpack.Progress] 32% building import loader ./node_modules/css-loader/dist/cjs.js
-<s> [webpack.Progress] 32% building import loader ./node_modules/postcss-loader/dist/cjs.js
-<s> [webpack.Progress] 32% building 0/1 entries 209/237 dependencies 50/121 modules
-<s> [webpack.Progress] 31% building 0/1 entries 300/371 dependencies 72/185 modules
-<s> [webpack.Progress] 29% building 0/1 entries 382/500 dependencies 82/228 modules
-<s> [webpack.Progress] 31% building 0/1 entries 560/600 dependencies 118/297 modules
-<s> [webpack.Progress] 35% building 0/1 entries 600/680 dependencies 136/299 modules
-<s> [webpack.Progress] 36% building 0/1 entries 628/700 dependencies 147/302 modules
-<s> [webpack.Progress] 47% building 0/1 entries 780/800 dependencies 238/350 modules
-<s> [webpack.Progress] 52% building 0/1 entries 880/900 dependencies 291/377 modules
-<s> [webpack.Progress] 59% building 0/1 entries 976/1000 dependencies 368/407 modules
-<s> [webpack.Progress] 56% building 0/1 entries 1146/1277 dependencies 419/500 modules
-<s> [webpack.Progress] 59% building 0/1 entries 1368/1400 dependencies 594/666 modules
-<s> [webpack.Progress] 58% building 0/1 entries 1449/1593 dependencies 614/700 modules
+<s> [webpack.Progress] 25% building 0/1 entries 98/117 dependencies 18/63 modules
+<s> [webpack.Progress] 27% building import loader ./node_modules/@svgr/webpack/lib/index.js
+<s> [webpack.Progress] 27% building import loader ./node_modules/file-loader/dist/cjs.js
+<s> [webpack.Progress] 27% building 0/1 entries 98/117 dependencies 20/63 modules
+<s> [webpack.Progress] 34% building 0/1 entries 121/144 dependencies 34/76 modules
+<s> [webpack.Progress] 32% building 0/1 entries 134/151 dependencies 35/87 modules
+<s> [webpack.Progress] 35% building 0/1 entries 200/240 dependencies 50/110 modules
+<s> [webpack.Progress] 31% building import loader ./node_modules/mini-css-extract-plugin/dist/loader.js
+<s> [webpack.Progress] 31% building import loader ./node_modules/css-loader/dist/cjs.js
+<s> [webpack.Progress] 31% building import loader ./node_modules/postcss-loader/dist/cjs.js
+<s> [webpack.Progress] 31% building 0/1 entries 216/240 dependencies 50/126 modules
+<s> [webpack.Progress] 30% building 0/1 entries 300/366 dependencies 69/186 modules
+<s> [webpack.Progress] 29% building 0/1 entries 381/500 dependencies 81/228 modules
+<s> [webpack.Progress] 31% building 0/1 entries 500/581 dependencies 99/256 modules
+<s> [webpack.Progress] 33% building 0/1 entries 582/600 dependencies 128/294 modules
+<s> [webpack.Progress] 50% building 0/1 entries 861/900 dependencies 274/375 modules
+<s> [webpack.Progress] 59% building 0/1 entries 959/979 dependencies 358/400 modules
+<s> [webpack.Progress] 56% building 0/1 entries 1058/1100 dependencies 388/462 modules
+<s> [webpack.Progress] 59% building 0/1 entries 1378/1400 dependencies 595/662 modules
 <s> [webpack.Progress] 65% building 1/1 entries 1623/1623 dependencies 830/830 modules
 <s> [webpack.Progress] 65% building
 <s> [webpack.Progress] 69% building finish
@@ -368,7 +366,7 @@ info => Copying static files: C:\Users\rahul\repos\storybook\public at C:\Users\
 <s> [webpack.Progress] 99% cache begin idle
 <s> [webpack.Progress] 100% 
 
-info => Preview built (1.77 min)
+info => Preview built (1.52 min)
 WARN asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
 WARN This can impact web performance.
 WARN Assets: 
@@ -387,4 +385,4 @@ WARN
 <s> [webpack.Progress] 99% cache shutdown
 <s> [webpack.Progress] 100% 
 
-info => Output directory: C:\Users\rahul\AppData\Local\Temp\chromatic--1204-Z3qAZQUuefFr
+info => Output directory: C:\Users\rahul\AppData\Local\Temp\chromatic--12440-K3LxHP7MuaKz
